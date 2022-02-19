@@ -155,9 +155,9 @@ urlpatterns = [
 
 
 ## OUTPUT:
-
-### Home Page:
+![Output](https://github.com/Shaik-sameer-AIML/serversideprocessing/blob/main/SA.PNG?raw=true)
 
 
 ## Result:
+A website to perform mathematical calculations in server side is created.
 
